@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>🎓 MCA Graduate from KIIT University  <br><br>🤖 Interested in Artificial Intelligence & Generative AI  <br>☁️ Exploring Cloud Computing and modern data platforms  <br>📊 Passionate about Data Analytics, Data Science and AI-driven solutions  <br>🌱 Always learning and experimenting with new technologies  <br><br>✈️ Travelling |🎧 Listening to music | 🌍 Surfing the Internet
+# 👨‍💻 About Me:
+## 🎓 MCA Graduate from KIIT University  <br><br>🤖 Interested in Artificial Intelligence & Generative AI  <br>☁️ Exploring Cloud Computing and modern data platforms  <br>📊 Passionate about Data Analytics, Data Science and AI-driven solutions  <br>🌱 Always learning and experimenting with new technologies  <br><br>✈️ Travelling |🎧 Listening to music | 🌍 Surfing the Internet
 
 
 ## 🌐 Socials:
