@@ -10,6 +10,3 @@
 # 🛠️ Tech Stack:
 ![](https://github-readme-stats.vercel.app/api?username=somenathsau&show=commits&theme=gruvbox&hide=stars,issues,contribs,prs&hide_border=false)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=somenathsau&icon=0&color=0)](https://visitcount.itsvg.in) 
