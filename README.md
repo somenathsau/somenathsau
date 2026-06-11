@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Somenath Sau
+Hi, My name is Somenath Sau
 =====================================================================================================================================
 
 Data Analyst with Gen AI
 ------------------------
 
-* 🌍  I'm based in Baharagora, India
+* 🌍  I'm based in Jamshedpur, Jharkhand, IN
 * 🖥️  See my portfolio at [Somenath Portfolio](http://somenathsau.github.io)
 * ✉️  You can contact me at [somenath.sau@outlook.in](mailto:somenath.sau@outlook.in)
 * 🧠  I'm currently learning Data Science with Gen AI
