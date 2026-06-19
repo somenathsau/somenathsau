@@ -1,29 +1,23 @@
 # Hi 👋, I'm Somenath sau
 
-### Analytics Professional with AI Experience
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somenathsau" alt="somenathsau" /></a> </p>
+### Data Analyst | SQL • Power BI • Python | Transforming Data into Actionable Insights
 
 <p align="left"> <a href="https://twitter.com/SomenathSau" target="blank"><img src="https://img.shields.io/twitter/follow/SomenathSau?logo=twitter&style=for-the-badge" alt="SomenathSau" /></a> </p>
 
-- 🔭 I'm currently working on **Data Analytics projects using SQL, Python, Power BI & Excel**
+🔭 Currently Working On
+    Analytics Solutions and AI-Assisted Workflows
 
-- 🌱 I'm currently learning **Data Engineering and Advanced Analytics**
+🌱 Currently Learning
+    Machine Learning and LLM Applications in Analytics
 
-- 👯 I'm looking to collaborate on **Dashboard Development and Open Data Projects**
+👯 Looking to Collaborate On
+    Data Analytics, GenAI and Automation Projects
 
-- 🤝 I'm looking for help with **Cloud Analytics and ETL Pipelines**
-
-- 💬 Ask me about **SQL, Power BI, Excel, Python, Data Visualization & GenAI
-**
-
-- 📫 How to reach me **somenathsau@outlook.com**
-
-- ⚡ Fun fact **I enjoy uncovering insights from data that drive better decisions.**
+📫 Reach me at: **[somenathsau@outlook.com](mailto:somenathsau@outlook.com)**
 
 - 👨‍💻 All of my projects are available at **[https://somenathsau.github.io/](https://somenathsau.github.io/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1mt8VQ5PMF2mihmyxQLqC2GR12nNqjLip/view?usp=drive_link](https://drive.google.com/file/d/1mt8VQ5PMF2mihmyxQLqC2GR12nNqjLip/view?usp=drive_link)**
+- 📄 Career Snapshot: **[Somenath Sau Resume](https://drive.google.com/file/d/1mt8VQ5PMF2mihmyxQLqC2GR12nNqjLip/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
