@@ -4,8 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/SomenathSau" target="blank"><img src="https://img.shields.io/twitter/follow/SomenathSau?logo=twitter&style=for-the-badge" alt="SomenathSau" /></a> </p>
 
-🔭 Currently Working On Analytics Solutions and AI-Assisted Workflows<br>
-🌱 Currently Learning Machine Learning and LLM Applications in Analytics
+🔭 Currently Working On Analytics Solutions and AI-Assisted Workflows <br>
+🌱 Currently Learning Machine Learning and LLM Applications in Analytics <br>
 👯 Looking to Collaborate On Data Analytics, GenAI and Automation Projects
 
 - 📫 Reach me at: **[somenathsau@outlook.com](mailto:somenathsau@outlook.com)**
