@@ -4,19 +4,12 @@
 
 <p align="left"> <a href="https://twitter.com/SomenathSau" target="blank"><img src="https://img.shields.io/twitter/follow/SomenathSau?logo=twitter&style=for-the-badge" alt="SomenathSau" /></a> </p>
 
-🔭 Currently Working On
-    Analytics Solutions and AI-Assisted Workflows
+🔭 Currently Working On Analytics Solutions and AI-Assisted Workflows
+🌱 Currently Learning Machine Learning and LLM Applications in Analytics
+👯 Looking to Collaborate On Data Analytics, GenAI and Automation Projects
 
-🌱 Currently Learning
-    Machine Learning and LLM Applications in Analytics
-
-👯 Looking to Collaborate On
-    Data Analytics, GenAI and Automation Projects
-
-📫 Reach me at: **[somenathsau@outlook.com](mailto:somenathsau@outlook.com)**
-
+- 📫 Reach me at: **[somenathsau@outlook.com](mailto:somenathsau@outlook.com)**
 - 👨‍💻 All of my projects are available at **[https://somenathsau.github.io/](https://somenathsau.github.io/)**
-
 - 📄 Career Snapshot: **[Somenath Sau Resume](https://drive.google.com/file/d/1mt8VQ5PMF2mihmyxQLqC2GR12nNqjLip/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
