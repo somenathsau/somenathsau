@@ -2,7 +2,11 @@
 
 ### Data Analyst | SQL • Power BI • Python | Transforming Data into Actionable Insights
 
-<p align="left"> <a href="https://twitter.com/SomenathSau" target="blank"><img src="https://img.shields.io/twitter/follow/SomenathSau?logo=twitter&style=for-the-badge" alt="SomenathSau" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/SomenathSau" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-@SomenathSau-000000?style=for-the-badge&logo=x&logoColor=white" alt="SomenathSau" />
+  </a>
+</p>
 
 🔭 Currently Working On Analytics Solutions and AI-Assisted Workflows <br>
 🌱 Currently Learning Machine Learning and LLM Applications in Analytics <br>
