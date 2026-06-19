@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://twitter.com/SomenathSau" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/SomenathSau?style=for-the-badge&logo=x&labelColor=334155&color=14B8A6" />
+    <img src="https://img.shields.io/twitter/follow/SomenathSau?logo=x&style=for-the-badge&color=1DA1F2" alt="SomenathSau" />
   </a>
 </p>
 
